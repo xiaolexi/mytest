@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demotest/demotest.iml" filepath="$PROJECT_DIR$/demotest/demotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demotest2/demotest2.iml" filepath="$PROJECT_DIR$/demotest2/demotest2.iml" />
+      <module fileurl="file://D:/TortoiseGit3/demotest3/demotest3.iml" filepath="D:/TortoiseGit3/demotest3/demotest3.iml" />
+    </modules>
+  </component>
+</project>
